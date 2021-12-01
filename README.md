@@ -3,18 +3,21 @@ Add tasks and track your progress at completing them
 
 ## Features
 
-This app demonstrates common JavaScript and DOM Manipulation techniques.
+This app demonstrates common JavaScript and DOM manipulation techniques, including local browser storage.
 
 - JS features: 
     * loops, functions, arrays, counters
 - DOM properties and methods:
+    * `addEventListener()` for common `event` objects: `click`, `submit`, `change`
     * `document.createElement()`
     * `.className =`
     * `querySelector()`, `matches()`
     * `.innerHTML =` 
     * `setAttribute()`, `getAttribute()`
     * `append()`, `appendChild()`, `removes()`
-    * `parseInt()`, `JSON.stringify()`
+- Local storage:
+    * `localStorage.setItem()`, `localStorage.getItem()`
+    * `JSON.stringify()`, `JSON.parse()`
 
 ## Screenshot
 
